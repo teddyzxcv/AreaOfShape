@@ -1,0 +1,15 @@
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\obj\Debug\netcoreapp3.1\AreaOfShape.csprojAssemblyReference.cache
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\obj\Debug\netcoreapp3.1\AreaOfShape.AssemblyInfoInputs.cache
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\obj\Debug\netcoreapp3.1\AreaOfShape.AssemblyInfo.cs
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\obj\Debug\netcoreapp3.1\AreaOfShape.csproj.CoreCompileInputs.cache
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\bin\Debug\netcoreapp3.1\AreaOfShape.exe
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\bin\Debug\netcoreapp3.1\AreaOfShape.deps.json
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\bin\Debug\netcoreapp3.1\AreaOfShape.runtimeconfig.json
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\bin\Debug\netcoreapp3.1\AreaOfShape.runtimeconfig.dev.json
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\bin\Debug\netcoreapp3.1\AreaOfShape.dll
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\bin\Debug\netcoreapp3.1\AreaOfShape.pdb
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\obj\Debug\netcoreapp3.1\AreaOfShape.csproj.CopyComplete
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\obj\Debug\netcoreapp3.1\AreaOfShape.dll
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\obj\Debug\netcoreapp3.1\AreaOfShape.pdb
+C:\Users\teddyzxcv\Documents\GitHub\AreaOfShape\obj\Debug\netcoreapp3.1\AreaOfShape.genruntimeconfig.cache

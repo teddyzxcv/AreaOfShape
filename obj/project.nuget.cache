@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oxVGm/eVAFbKyxck/eZUnChqkjlkOV2KPzCny0sxaF2y88ZJb0ExzD+/v8RCTgGUj0GmBWWNK3KN5TinWjjDlQ==",
+  "dgSpecHash": "hZLBSmfDDFb7d4PsgWfLNY0GuLMiWDDZb1CIBTUYhDxZ3x7dYiZKvdIipe+2X1ro87om4L2BzzmEyHcC70ofoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\teddyzxcv\\Documents\\GitHub\\AreaOfShape\\AreaOfShape.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\teddyzxcv\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
